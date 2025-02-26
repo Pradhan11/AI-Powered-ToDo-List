@@ -1,2 +1,12 @@
-# AI-Powered-ToDo-List
- A simple AI-powered To-Do List in Python that: ✅ Lets users add tasks with deadlines. ✅ Uses AI (OpenAI API) to suggest task priorities based on urgency. ✅ Runs on a simple command-line interface.
+# AI-Powered To-Do List ✅  
+A simple AI-based to-do list that prioritizes tasks based on deadlines.  
+
+## Features:  
+- Enter tasks with deadlines  
+- AI suggests which tasks to complete first  
+
+## How to Use:  
+1. Clone the repository  
+2. Install dependencies (`pip install openai`)  
+3. Run `python todo.py`  
+4. Enter tasks and get priority suggestions  
